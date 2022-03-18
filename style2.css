@@ -1,0 +1,10 @@
+.alret{
+
+    opacity: 0;
+    transition: 2s;
+
+}
+#signUpmain {
+    opacity: 0;
+    transition: opacity 3s;}
+
